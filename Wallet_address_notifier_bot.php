@@ -414,7 +414,7 @@ class Wallet_address_notifier_bot extends CI_Controller {
     private function startCommand($chat_id, $message_id, $name, $type)
     {
         $response_text = "Hello $name! \n\nWelcome to Wallet Transaction Notifier Bot!\n\nHere's what you can do";
-        if ($chat_id == "625982027")
+        if ($chat_id == "XXXXXX")
         {
             $keyboard = array(
                 'inline_keyboard' => array(
@@ -1127,7 +1127,7 @@ class Wallet_address_notifier_bot extends CI_Controller {
     {
         $response_text = "Mempool API Status: $status_code";
         $post_data = array(
-            'chat_id' => '625982027', // admin telegram
+            'chat_id' => 'XXXX', // admin telegram
             'text' => $response_text,
             'parse_mode'=> 'html',
         );
