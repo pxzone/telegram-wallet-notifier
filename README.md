@@ -1,6 +1,6 @@
 
 # Wallet Transaction Notifier - @txnNotifierBot
-Get notified when you mentioned, post quoted, received +-Karma on Altcoinstalks.com 
+Get notified when your wallet address got a new incoming and outgoing transaction.
 
 Telegram: 
 [![telegram](https://img.shields.io/badge/Telegram-@txnNotifierBot-blue)](https://t.me/txnNotifierBot)
