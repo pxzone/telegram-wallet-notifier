@@ -1,6 +1,6 @@
 
-# Wallet Transaction Notifier - @txnNotifierBot
-Get notified when your wallet address got a new incoming and outgoing transaction.
+# Telegram Wallet Transaction Notifier - @txnNotifierBot
+Get notified on Telegram when your wallet address got a new incoming and outgoing transaction.
 
 Telegram: 
 [![telegram](https://img.shields.io/badge/Telegram-@txnNotifierBot-blue)](https://t.me/txnNotifierBot)
